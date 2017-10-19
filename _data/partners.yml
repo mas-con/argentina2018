@@ -1,24 +1,24 @@
--
-  group: "Patrocinio"
-  elements:
-    - {name: "Python Software Foundation", description: "", link: "https://www.python.org/psf/", imageUrl: "psf.png"}
-    - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
-    - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
-    - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
-    - {name: "AG2", description: "", link: "http://ag2technology.com/", imageUrl: "ag2.png"}
-    - {name: "Pixel Sapiens", description: "", link: "", imageUrl: "pixelsapiens.png"}
+# -
+#   group: "Patrocinio"
+#   elements:
+#     - {name: "Python Software Foundation", description: "", link: "https://www.python.org/psf/", imageUrl: "psf.png"}
+#     - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
+#     - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
+#     - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
+#     - {name: "AG2", description: "", link: "http://ag2technology.com/", imageUrl: "ag2.png"}
+#     - {name: "Pixel Sapiens", description: "", link: "", imageUrl: "pixelsapiens.png"}
 
--
-  group: "Apoyo"
-  elements:
-    - {name: "UTN Mendoza", description: "UTN Mendoza", link: "http://www.frm.utn.edu.ar/", imageUrl: "logo-utn.png"}
-    - {name: "Banco de Alimentos", description: "Banco de Alimentos", link: "http://bdamendoza.org.ar/", imageUrl: "bda.png"}
-    - {name: "JetBrains", description: "", link: "http://www.jetbrains.com", imageUrl: "jetbrains.png"}
+# -
+#   group: "Apoyo"
+#   elements:
+#     - {name: "UTN Mendoza", description: "UTN Mendoza", link: "http://www.frm.utn.edu.ar/", imageUrl: "logo-utn.png"}
+#     - {name: "Banco de Alimentos", description: "Banco de Alimentos", link: "http://bdamendoza.org.ar/", imageUrl: "bda.png"}
+#     - {name: "JetBrains", description: "", link: "http://www.jetbrains.com", imageUrl: "jetbrains.png"}
 
--
-  group: "Otros"
-  elements:
-    - {name: "PythonMendoza", description: "PythonMendoza ", link: "pythonmendoza", imageUrl: "pythonar.png"}
-    - {name: "PyladiesMendoza", description: "PyladiesMendoza ", link: "https://www.facebook.com/pyladiesmdz", imageUrl: "pyladies.png"}
-    - {name: "Mdz[TIC]", description: "Mdz[TIC] ", link: "https://fb.me/mdztic", imageUrl: "mdztic.jpg"}
+# -
+#   group: "Otros"
+#   elements:
+#     - {name: "PythonMendoza", description: "PythonMendoza ", link: "pythonmendoza", imageUrl: "pythonar.png"}
+#     - {name: "PyladiesMendoza", description: "PyladiesMendoza ", link: "https://www.facebook.com/pyladiesmdz", imageUrl: "pyladies.png"}
+#     - {name: "Mdz[TIC]", description: "Mdz[TIC] ", link: "https://fb.me/mdztic", imageUrl: "mdztic.jpg"}
 
