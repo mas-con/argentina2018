@@ -1,59 +1,200 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Apertura - Check-in y Entrega de alimentos (1kg arroz)"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 008
+  title: "Almuerzo"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 013
+  title: "Coffee Break"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 030
+  title: "Coffee Break"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 027
+  title: "Cierre y Sorteos de Regalos"
+  place: ""
+  service: true
+  description: ""
+
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Ingenieria de una Startup "
+  description: "Ingenieria de una Startup"
+  subtype: Talk
+  speakers: [1]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Ya terminé mi app! ¿y ahora qué hago?!"
+  description: "Para tener una app exitosa en el Play Store no basta con sólo desarrollarla sino que hay que mantenerla, entender a los usuarios, prestar atención a ciertos detalles, entre otras tantas cosas. Con los consejos y sugerencias de esta charla vas a transformar tu (futura) app en un producto de primer nivel. "
+  subtype: Talk
+  speakers: [6]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "UX: tips y mitos "
+  description: "User experience, mejorando la experiencia de usuario con predicción y preferencias."
+  subtype: Lighting Talk
+  speakers: [3,4]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Not an enemy of the state: Arquitecturas Stateful para backends "
+  description: "Estamos habituados a construir aplicaciones donde la Base de Datos es nuestro unico estado. Un request http genera N llamadas a la BD. Para optimizar esto usamos caches, in-memory DBs. ¿Qué pasa si ahora planteamos una arquitectura donde el estado no está solo en la DB, sino también en las apps? "
+  subtype: Lighting Talk
+  speakers: [10]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 006
+  title: "Hey oh Let's Go!"
+  description: "Una charla introductória al Go(lang). En esta charla voy mostrar como es sencillo el desarollo de una aplicación con Go. "
+  subtype: Talk
+  speakers: [2]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 007
+  title: " Mat|r hacia un nuevo paradigma en la experiencia digital"
+  description: ""
+  subtype: Talk
+  speakers: [5,20]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+
+-
+  id: 009
+  title: "Diseñar y comunicar en el mundo de los datos y las redes"
+  description: "Las redes sociales ya no son un simple posteo, ya no son una campaña o un anuncio dirigido al mundo, la forma en la que podemos trabajar la información y apuntar una campaña es asombrosa, eso, mezclado con los datos, hace que comunicar y diseñar una campaña sea no solo divertido, si no también, que tenga mucho éxito. En el Workshop vamos a aprender a trabajar en esto y disfrutar de ejemplos."
+  subtype: Workshop
+  speakers: [9]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 010
+  title: "Git: La máquina del tiempo"
+  description: "Pequeña intro a git para avanzar sobre comandos útiles, que pueden ayudarnos a que el desarrollo sea menos frustrante y más agradable."
+  subtype: Workshop
+  speakers: [11]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 011
+  title: "Por qué somos felices en el trabajo?"
+  description: "Se trata de una charla de management. En el presente, adquirir y retener talentos es un gran desafío para las empresas de tecnología.El propósito de esta charla es presentar 4 aspectos claves para atraer talentos y mantener altos niveles de motivación en el equipo. La charla contiene fundamentos teóricos que explican fenómenos que ocurren en los equipos y también tips que pueden comenzar a aplicar para aumentar el nivel de motivación."
+  subtype: Talk
+  speakers: [8]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 012
+  title: "Desarollo Android: tips y herramientas para arrancar."
+  description: "¿Por desarrollar una app de Android? ¡No sufras y arranques todo desde cero! Nosotros te vamos a dar una mano para que puedas empezar de una forma más sencilla, con buenas prácticas y herramientas modernas."
+  subtype:  talk
+  speakers: [6,7]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 014
+  title: "XGEM (Proyecto Open Source)"
+  description: "Proyecto Open Source"
+  subtype: Proyecto Open Source
+  speakers: []
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 015
+  title: "IGC viewer (Proyecto Open Source)"
+  description: "Proyecto Open Source"
+  subtype: Proyecto Open Source
+  speakers: []
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 016
+  title: "Diseño y Programación : Una Hora de aventura"
+  description: "La relación entre el diseño y la ingeniería "
+  subtype: Lighting talk
+  speakers: [14,15]
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 018
+  title: "KEYNOTE"
+  description: "KEYNOTE"
+  subtype: Talk
+  speakers: [18]
+  # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 019
+  title: "Tranqui 120"
+  description: "Un estudio sobre la peligrosidad en el uso de interfaces táctiles mientras se conduce un automóvil y una discusión sobre el presente y el futuro de la industria."
+  subtype: Talk
+  speakers: [16,17]
+  # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 021
+  title: "Cómo diseñar tu modelo de negocio"
+  description: ""
+  subtype: Workshop
+  speakers: [12,13]
+  # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 022
+  title: "Accesibilidad y ese viejo software con millones de usuarios"
+  description: "Exposicion con ejemplos de diversas discapacidades y los problemas al acceder a la web, posibles soluciones, herramientas de testeo automatizadas y como encarar la evolucion de un sistema antiguo en funcionamiento que no haya sido desarrollado con esto en mente."
+  subtype: Talk
+  speakers: [14]
+  # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 040
+  title: "Mira un Unicornio! Una guia para convertirte en Full Stack Developer"
+  description: "Algunos lineamientos, recursos y aprendizajes tomados desde la experiencia para llegar a ser full stack developer. ¿Es posible ser un jugador de toda la cancha? ¿Donde esta el valor del perfil full stack? ¿Como me muevo desde el backend al frontend y viceversa? ¿Existen realmente los unicornios?"
+  subtype: Talk
+  speakers: [19]
+  # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+
+

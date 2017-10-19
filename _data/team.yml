@@ -1,60 +1,84 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Paola Katherine"
+  surname: "Pacheco"
+  title: "Organizer"
+  thumbnailUrl: paola.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/pk_pacheco"}
+    - {name: "github", link: "https://github.com/PKpacheco"}
+    - {name: "site", link: "http://about.me/pkcpweb"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Florencia"
+  surname: "Rosas"
+  title: "Organizer"
+  thumbnailUrl: florosas.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    # - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
+    - {name: "site", link: "https://www.pixelsapiens.com"}
+    - {name: "github", link: "https://github.com/flornrosas"}
+
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Jero"
+  surname: "Pizarro"
+  title: "Organizer"
+  thumbnailUrl: jero.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    # - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
+    - {name: "twitter", link: "https://twitter.com/jeropizarro21"}
+    - {name: "github", link: "https://github.com/JeroPizarro'"}
+
+-
+  id: 3
+  name: "Flo"
+  surname: "Zapata"
+  title: "Organizer"
+  thumbnailUrl: flozapata.jpg
+  team: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://about.me/florenciazapata"}
+    - {name: "twitter", link: "https://twitter.com/_flodolce"}
+    - {name: "github", link: "https://github.com/zapataFlorencia'"}
+
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Juan"
+  surname: "Churin"
+  title: "Organizer"
+  thumbnailUrl: juanc.jpg
+  team: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "sitio", link: "https://about.me/juanchurin"}
+    - {name: "twitter", link: "https://twitter.com/JChurin"}
+    - {name: "github", link: "https://github.com/jchurin'"}
+
+-
+  id: 5
+  name: "Oscar"
+  surname: "Alcade"
+  title: "Organizer"
+  thumbnailUrl: oscar.jpg
+  team: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "email", link: "oscaralcalde93@gmail.com"}
+    # - {name: "twitter", link: "https://twitter.com/JChurin"}
+    # - {name: "github", link: "https://github.com/jchurin'"}
+
+

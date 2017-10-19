@@ -1,23 +1,25 @@
-- 
-  group: "General sponsor"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+-
+  group: "Patrocinio"
+  elements:
+    - {name: "Python Software Foundation", description: "", link: "https://www.python.org/psf/", imageUrl: "psf.png"}
+    - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
+    - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
+    - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
+    - {name: "AG2", description: "", link: "http://ag2technology.com/", imageUrl: "ag2.png"}
+    - {name: "Pixel Sapiens", description: "", link: "", imageUrl: "pixelsapiens.png"}
+
+-
+  group: "Apoyo"
+  elements:
+    - {name: "UTN Mendoza", description: "UTN Mendoza", link: "http://www.frm.utn.edu.ar/", imageUrl: "logo-utn.png"}
+    - {name: "Banco de Alimentos", description: "Banco de Alimentos", link: "http://bdamendoza.org.ar/", imageUrl: "bda.png"}
+    - {name: "JetBrains", description: "", link: "http://www.jetbrains.com", imageUrl: "jetbrains.png"}
+    - {name: "RedBull", description: "", link: "https://www.redbull.com/ar-es/", imageUrl: "redbull.png"}
+
+-
+  group: "Otros"
+  elements:
+    - {name: "PythonMendoza", description: "PythonMendoza ", link: "pythonmendoza", imageUrl: "pythonar.png"}
+    - {name: "PyladiesMendoza", description: "PyladiesMendoza ", link: "https://www.facebook.com/pyladiesmdz", imageUrl: "pyladies.png"}
+    - {name: "Mdz[TIC]", description: "Mdz[TIC] ", link: "https://fb.me/mdztic", imageUrl: "mdztic.jpg"}
+
