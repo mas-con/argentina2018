@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programación"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Los organizadores"}
- - {permalink: "/communities/", text: "Proyectos"}
+ - {permalink: "/proyectos/", text: "Proyectos"}
 
 # bottomNavigationLinks:
 #  - {link: "#", text: "Become a speaker"}
@@ -116,7 +116,7 @@ venueFeatures: ["Buen ambiente para las conversaciones. "," Una buena acústica,
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: ""
 twitterHashTag: "masconmdz"
 twitterFeed: ""
 

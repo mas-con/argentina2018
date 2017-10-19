@@ -1,0 +1,31 @@
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Proyectos Open Source</h4>
+            <h6>Vamos a elegir a dos proyectos de código abierto para presentar sus proyectos y fomentar colaboraciones.</h6>
+            <a href="#"><p>Envíe su proyecto aquí </p></a>
+            <a href="#"><p>Votar por el proyecto</p>
+            {% for proyecto in site.data.proyectos %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/organizers/' | append: proyecto.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-6 text-left">
+                                <h2 class="name">{{ proyecto.name }}</h2>
+                            </div>
+                            {% for social in proyecto.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
