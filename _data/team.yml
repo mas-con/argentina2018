@@ -2,7 +2,7 @@
   id: 0
   name: "Paola Katherine"
   surname: "Pacheco"
-  title: "Organizer"
+  title: "Creador y Organizer"
   thumbnailUrl: paola.jpg
   team: true
   ribbon:
@@ -72,7 +72,7 @@
   name: "Oscar"
   surname: "Alcade"
   title: "Organizer"
-  thumbnailUrl: oscar.jpg
+  thumbnailUrl: padrao.jpg
   team: true
   ribbon:
     # - {abbr: "GDG", title: "Google Developer Group"}
