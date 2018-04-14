@@ -68,7 +68,6 @@ aboutTitle: "Conocé +Con"
 aboutBlock:
  - {title: "Talks", image: "bigdata.jpg", text: "Charlas sobre lenguajes de programación, frameworks y más." }
  - {title: "Lightning Talks", image: "iot.png", text: "Lightning Talks, charlas más intensas sobre desarrollo." }
- - {title: "Workshops", image: "dev.png", text: "Workshops en nuevos lenguajes, frameworks modernos y más." }
  - {title: "Open Source", image: "opsource.jpg", text: "Presenta tu proyecto y ganá pull requests." }
 
 # Statistic Block
