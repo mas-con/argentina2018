@@ -11,8 +11,24 @@
     - {name: "twitter", link: "https://twitter.com/pk_pacheco"}
     - {name: "github", link: "https://github.com/PKpacheco"}
     - {name: "site", link: "http://about.me/pkcpweb"}
+
+-
+  id: 1
+  name: "Flor"
+  surname: "Zapata"
+  title: "Organizer"
+  thumbnailUrl: flozapata.jpg
+  team: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "site", link: "https://about.me/florenciazapata"}
+    - {name: "twitter", link: "https://twitter.com/_flodolce"}
+    - {name: "github", link: "https://github.com/zapataFlorencia'"}
+
+
 # -
-#   id: 1
+#   id: 2
 #   name: "Florencia"
 #   surname: "Rosas"
 #   title: "Organizer"
@@ -38,20 +54,6 @@
 #     # - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
 #     - {name: "twitter", link: "https://twitter.com/jeropizarro21"}
 #     - {name: "github", link: "https://github.com/JeroPizarro'"}
-
-# -
-#   id: 3
-#   name: "Flo"
-#   surname: "Zapata"
-#   title: "Organizer"
-#   thumbnailUrl: flozapata.jpg
-#   team: true
-#   ribbon:
-#     # - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "site", link: "https://about.me/florenciazapata"}
-#     - {name: "twitter", link: "https://twitter.com/_flodolce"}
-#     - {name: "github", link: "https://github.com/zapataFlorencia'"}
 
 # -
 #   id: 4

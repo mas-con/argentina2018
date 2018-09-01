@@ -8,10 +8,10 @@
 #     - {name: "AG2", description: "", link: "http://ag2technology.com/", imageUrl: "ag2.png"}
 #     - {name: "Pixel Sapiens", description: "", link: "", imageUrl: "pixelsapiens.png"}
 
-# -
-#   group: "Apoyo"
-#   elements:
-#     - {name: "UTN Mendoza", description: "UTN Mendoza", link: "http://www.frm.utn.edu.ar/", imageUrl: "logo-utn.png"}
+-
+  group: "Apoyo"
+  elements:
+    - {name: "UTN Mendoza", description: "UTN Mendoza", link: "http://www.frm.utn.edu.ar/", imageUrl: "logo-utn.png"}
 #     - {name: "Banco de Alimentos", description: "Banco de Alimentos", link: "http://bdamendoza.org.ar/", imageUrl: "bda.png"}
 #     - {name: "JetBrains", description: "", link: "http://www.jetbrains.com", imageUrl: "jetbrains.png"}
 

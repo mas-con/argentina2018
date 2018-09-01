@@ -46,7 +46,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programación"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Los organizadores"}
- - {permalink: "/proyectos/", text: "Proyectos"}
 
 # bottomNavigationLinks:
 #  - {link: "#", text: "Become a speaker"}
@@ -56,7 +55,7 @@ navigationLinks:
 # Hero Block
 heroImage: "black.png"
 heroTitle: "+Con | <typeout> "
-eventDate: "Mendoza"
+eventDate: "20 Octubre - UTN Mendoza"
 typeoutTextValues: '"", "ferencia", "versación ", "vos ", "Diseno" ,"desarrollo"'
 typeoutFallback: "Season"
 # heroButtons:
@@ -68,7 +67,6 @@ aboutTitle: "Conocé +Con"
 aboutBlock:
  - {title: "Talks", image: "bigdata.jpg", text: "Charlas sobre lenguajes de programación, frameworks y más." }
  - {title: "Lightning Talks", image: "iot.png", text: "Lightning Talks, charlas más intensas sobre desarrollo." }
- - {title: "Open Source", image: "opsource.jpg", text: "Presenta tu proyecto y ganá pull requests." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -88,23 +86,23 @@ rockstarSpeakersTitle: "Oradores"
 rockstarSpeakersButtonText: "Ver todos los oradores"
 
 # Location Block
-locationBlockTitle: "Ubicación"
+locationBlockTitle: "UTN Mendoza"
 eventLocationName: ""
 eventLocationLink: "#"
-eventStreetAddress: ""
+eventStreetAddress: "Coronel, J. Rodriguez 273"
 eventAddressLocality: "Mendoza"
 eventAddressLocalityRegion: "Mendoza"
 eventPostalCode: "5500"
 eventAddressCountry: "Argentina"
-eventStartTime: "2017-11-19T10:00"
+eventStartTime: "2018-10-20T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2017-11-19T18:00"
+eventEndTime: "2018-10-20T18:00"
 eventPlaceCoordinates: "-32.897141846900354,-68.8533890247345"
 mapCenterCoordinates: "-32.897141846900354,-68.8533890247345"
 mapMobileCenterCoordinates: "-32.897141846900354,-68.8533890247345"
 
 # Venue Block
-venueBlockTitle: "Mendoza"
+venueBlockTitle: "UTN - Mendoza"
 venueBigImage: "auditorio.jpg"
 venueSmallImage1: "entrada.jpg"
 venueSmallImage2: "novaamerica-2.jpg"
