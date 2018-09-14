@@ -44,19 +44,19 @@
 
 -
   id: 007
-  title: "Talk"
-  description: "Talk"
+  title: "React para viejxs frontenders"
+  description: "Talk | Entre iniciante e intermedio, se necesitarían conocimientos básicos de JavaScript, trabajar o estar interesado en trabajar en front-end y potencialmente estar utilizando todavía jQuery o Angular 1."
   subtype: Talk
-  speakers: [6]
+  speakers: [4]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 008
-  title: "Talk "
-  description: "Talk"
-  subtype:  Talk
-  speakers: [3,4]
+  title: "Creando tu primer chatbot con Dialoflow "
+  description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación."
+  subtype:  Talk | intermedio se necesitarían conocimientos básicos manejo de git y python.
+  speakers: [1]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -71,19 +71,19 @@
 
 -
   id: 010
-  title: "Talk"
+  title: "Postman - Testing de EndPoints - Continuos Integration"
   description: "Talk "
   subtype: Talk
-  speakers: [2]
+  speakers: [3]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 011
-  title: " Talk"
+  title: " Mostrar cosas interesantes con Bases de Datos"
   description: "Talk"
   subtype: Talk
-  speakers: [5,20]
+  speakers: [9]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
