@@ -50,7 +50,7 @@
    company: "VividCortex"
    title: ""
    bio: "Full-stack/fronten developer"
-   thumbnailUrl: matias.jpg
+   thumbnailUrl: matias.png
    rockstar: true
    ribbon:
      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
@@ -130,7 +130,7 @@
    company: ""
    title: "Co Fundador 316 Agencia "
    bio: ""
-   thumbnailUrl: emiliano.jpg
+   thumbnailUrl: emiliano.png
    rockstar: true
    ribbon:
      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}

@@ -45,8 +45,8 @@
 -
   id: 007
   title: "React para viejxs frontenders"
-  description: "Orientado a ayudar a migrar a tecnologías nuevas de front-end (React) a desarrolladorxs que todavía no dan el salto, o siguen utilizando tecnologías antiguas, comparando la vieja y la nueva forma de hacer las cosas."
-  subtype: Talk | Entre iniciante e intermedio, se necesitarían conocimientos básicos de JavaScript, trabajar o estar interesado en trabajar en front-end y potencialmente estar utilizando todavía jQuery o Angular 1.
+  description: "Orientado a ayudar a migrar a tecnologías nuevas de front-end (React) a desarrolladorxs que todavía no dan el salto, o siguen utilizando tecnologías antiguas, comparando la vieja y la nueva forma de hacer las cosas. | Se necesitarían conocimientos básicos de JavaScript, trabajar o estar interesado en trabajar en front-end y potencialmente estar utilizando todavía jQuery o Angular 1."
+  subtype: Talk 
   speakers: [4]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -54,8 +54,8 @@
 -
   id: 008
   title: "Creando tu primer chatbot con Dialoflow "
-  description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación."
-  subtype:  Talk | intermedio se necesitarían conocimientos básicos manejo de git y python.
+  description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación. | Se necesitarían conocimientos básicos manejo de git y python."
+  subtype:  Talk 
   speakers: [1]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
