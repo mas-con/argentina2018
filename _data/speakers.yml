@@ -1,17 +1,16 @@
-#  -
-#    id: 1
-#    name: "Pablo "
-#    surname: "Fredrikson"
-#    company: "Invisionapp.com"
-#    title: ""
-#    bio: "Senior SRE (Site Reliability Engineer)"
-#    thumbnailUrl: pablo.png
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      - {name: "twitter", link: "https://twitter.com/pablokbs"}
-#      - {name: "github", link: "https://github.com/pablokbs"}
+ -
+   id: 1
+   name: "Cristian "
+   surname: "Moyano"
+   company: "Eventbrite"
+   title: ""
+   bio: "Software Engineer"
+   thumbnailUrl: cristian.png
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/cristian-moyano/"}
 
  -
    id: 2
@@ -29,37 +28,36 @@
      - {name: "twitter", link: "https://twitter.com/viniciuspach"}
      #- {name: "github", link: "https://github.com/afonsopacifer"}
 
-#  -
-#    id: 3
-#    name: "Maribel"
-#    surname: "Flores"
-#    company: ""
-#    title: ""
-#    bio: "Arquitectura de CSS y diseño UI UX"
-#    thumbnailUrl: maribel.png
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
-#      #- {name: "github", link: "https://github.com/diegocacau"}
+ -
+   id: 3
+   name: "Javier Hernán"
+   surname: "Caballero García"
+   company: ""
+   title: ""
+   bio: "Test Automation Engineer "
+   thumbnailUrl: javier.png
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     - {name: "site", link: "https://www.javiercaballero.info/#contact"}
+     - {name: "github", link: "https://github.com/caballerojavier13"}
 
-#  -
-#    id: 4
-#    name: "Sebastián "
-#    surname: "Maldonado"
-#    company: "Lab21k"
-#    title: ""
-#    bio: "Arquitectura de CSS y diseño UI UX"
-#    thumbnailUrl: sebastian.jpg
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
-#      - {name: "github", link: "https://github.com//sebamza17"}
+ -
+   id: 4
+   name: "Matías  "
+   surname: "Chomicki"
+   company: "VividCortex"
+   title: ""
+   bio: "Full-stack/fronten developer"
+   thumbnailUrl: matias.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
+     - {name: "github", link: "github.com/matyax"}
 
 #  -
 #    id: 5
@@ -125,22 +123,22 @@
 #      # - {name: "twitter", link: "https://twitter.com/douglasdrumond"}
 #      # - {name: "github", link: "https://github.com/douglasdrumond"}
 
-#  -
-#    id: 9
-#    name: "Emiliano"
-#    surname: "Panelli"
-#    company: ""
-#    title: "Creativo & Emprendedor"
-#    bio: ""
-#    thumbnailUrl: emi.jpg
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#      #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      - {name: "twitter", link: "https://twitter.com/@epanellii"}
-#      # - {name: "github", link: "https://github.com/aoqfonseca"}
+ -
+   id: 9
+   name: "Emiliano"
+   surname: "Panelli"
+   company: ""
+   title: "Co Fundador 316 Agencia "
+   bio: ""
+   thumbnailUrl: emiliano.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/@epanellii"}
+     # - {name: "github", link: "https://github.com/aoqfonseca"}
 
 #  -
 #    id: 10

@@ -44,19 +44,19 @@
 
 -
   id: 007
-  title: "Talk"
-  description: "Talk"
-  subtype: Talk
-  speakers: [6]
+  title: "React para viejxs frontenders"
+  description: "Orientado a ayudar a migrar a tecnologías nuevas de front-end (React) a desarrolladorxs que todavía no dan el salto, o siguen utilizando tecnologías antiguas, comparando la vieja y la nueva forma de hacer las cosas."
+  subtype: Talk | Entre iniciante e intermedio, se necesitarían conocimientos básicos de JavaScript, trabajar o estar interesado en trabajar en front-end y potencialmente estar utilizando todavía jQuery o Angular 1.
+  speakers: [4]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 008
-  title: "Talk "
-  description: "Talk"
-  subtype:  Talk
-  speakers: [3,4]
+  title: "Creando tu primer chatbot con Dialoflow "
+  description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación."
+  subtype:  Talk | intermedio se necesitarían conocimientos básicos manejo de git y python.
+  speakers: [1]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -71,19 +71,19 @@
 
 -
   id: 010
-  title: "Talk"
-  description: "Talk "
+  title: "Postman - Testing de EndPoints - Continuos Integration"
+  description: "Postman es masivamente usado como herramienta para recordar llamadas api rest, con ligeros aditivos es posible agregarle valor a esas llamadas utilizando pre y post script, así como también test. El cierre de la charla estará dado con la configuración de un servidor Jenkins junto a NewMan para crear un job de integración continua. "
   subtype: Talk
-  speakers: [0]
+  speakers: [3]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 011
-  title: " Talk"
-  description: "Talk"
+  title: " Mostrar cosas interesantes con Bases de Datos"
+  description: "Todos tenemos bases de datos, planillas de excel gigantes llenas de filas y columnas, y hay muchas herramientas geniales para crear mapas y mostrar las cosas de mejor manera para que lo entienda todo el mundo. "
   subtype: Talk
-  speakers: [5,20]
+  speakers: [9]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
