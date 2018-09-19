@@ -48,8 +48,8 @@
    name: "Matías  "
    surname: "Chomicki"
    company: "VividCortex"
-   title: ""
-   bio: "Full-stack/fronten developer"
+   title: "Full-stack/frontend developer"
+   bio: ""
    thumbnailUrl: matias.png
    rockstar: true
    ribbon:
@@ -59,37 +59,37 @@
      #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
      - {name: "github", link: "github.com/matyax"}
 
-#  -
-#    id: 5
-#    name: "Santiago "
-#    surname: "Beltramone"
-#    company: " "
-#    title: "Mat|r Team Leader - Software Engineer - IOS"
-#    bio: ""
-#    thumbnailUrl: santiago_beltramone.png
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      # - {name: "twitter", link: "https://twitter.com/J4v1Sanchez"}
-#      # - {name: "github", link: "https://github.com/crismotinha"}
+ -
+   id: 5
+   name: "Santiago "
+   surname: "Bandiera"
+   company: "Hanzo S.L. "
+   title: ""
+   bio: "Desarrollador FrontEnd"
+   thumbnailUrl: padrao.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/sagaban"}
+     - {name: "github", link: "https://github.com/sagaban"}
 
-#  -
-#    id: 6
-#    name: "Santiago"
-#    surname: "Hollmann"
-#    company: "Eventbrite"
-#    title: ""
-#    bio: ""
-#    thumbnailUrl: santi.jpg
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      - {name: "twitter", link: "http://twitter.com/santihollmann"}
-#      - {name: "github", link: "http://github.com/santiago-hollmann"}
+ -
+   id: 6
+   name: "Pablo"
+   surname: "Fredrikson"
+   company: "Invision"
+   title: "Lead SRE"
+   bio: ""
+   thumbnailUrl: padrao.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "http://twitter.com/pablokbs"}
+    #  - {name: "github", link: "http://github.com/santiago-hollmann"}
 #  -
 #    id: 7
 #    name: "Serguei"
