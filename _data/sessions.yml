@@ -120,7 +120,7 @@
   title: "Talk"
   description: "Talk"
   subtype:  Talk
-  speakers: [6,7]
+  speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
