@@ -127,7 +127,7 @@
 -
   id: 016
   title: "JavaScript: The Tricky Parts"
-  description: "Análisis de la lógica y funcionamiento de los conceptos más "engañosos" o que cuestan asimilar, sobre todo si se viene de otro lenguaje de programación.| Intermedio. Haber programado antes (no mucho, pero si lo básico) en JavaScript para sacarle más provecho a al charla."
+  description: "Análisis de la lógica y funcionamiento de los conceptos más 'engañosos' o que cuestan asimilar, sobre todo si se viene de otro lenguaje de programación.| Intermedio. Haber programado antes (no mucho, pero si lo básico) en JavaScript para sacarle más provecho a al charla."
   subtype: Talk
   speakers: [6]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
