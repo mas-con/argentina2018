@@ -66,7 +66,7 @@
    company: "Hanzo S.L. "
    title: "Desarrollador FrontEnd"
    bio: ""
-   thumbnailUrl: padrao.jpg
+   thumbnailUrl: santiago.jpg
    rockstar: true
    ribbon:
      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
@@ -127,7 +127,7 @@
    id: 9
    name: "Emiliano"
    surname: "Panelli"
-   company: ""
+   company: "316 Agencia"
    title: "Co Fundador 316 Agencia "
    bio: ""
    thumbnailUrl: emiliano.png
