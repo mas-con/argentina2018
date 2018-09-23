@@ -55,7 +55,7 @@ navigationLinks:
 # Hero Block
 heroImage: "black.png"
 heroTitle: "+Con | <typeout> "
-eventDate: "20 Octubre - UTN Mendoza <br> inscripciones: masconmdz.eventbrite.com"
+eventDate: "20 Octubre - UTN Mendoza "
 typeoutTextValues: '"", "ferencia", "versación ", "vos ", "Diseno" ,"desarrollo"'
 typeoutFallback: "Season"
 heroButtons:
