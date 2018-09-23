@@ -3,8 +3,8 @@
    name: "Cristian "
    surname: "Moyano"
    company: "Eventbrite"
-   title: ""
-   bio: "Software Engineer"
+   title: "Software Engineer"
+   bio: ""
    thumbnailUrl: cristian.png
    rockstar: true
    ribbon:
@@ -17,8 +17,8 @@
    name: "Vinicius"
    surname: "Pacheco"
    company: "Eventbrite"
-   title: ""
-   bio: "Senior Software Engineer"
+   title: "Senior Software Engineer"
+   bio: ""
    thumbnailUrl: vinicius.jpg
    rockstar: true
    ribbon:
@@ -33,8 +33,8 @@
    name: "Javier Hernán"
    surname: "Caballero García"
    company: ""
-   title: ""
-   bio: "Test Automation Engineer "
+   title: "Test Automation Engineer"
+   bio: ""
    thumbnailUrl: javier.png
    rockstar: true
    ribbon:
@@ -64,8 +64,8 @@
    name: "Santiago "
    surname: "Bandiera"
    company: "Hanzo S.L. "
-   title: ""
-   bio: "Desarrollador FrontEnd"
+   title: "Desarrollador FrontEnd"
+   bio: ""
    thumbnailUrl: padrao.jpg
    rockstar: true
    ribbon:
@@ -82,7 +82,7 @@
    company: "Invision"
    title: "Lead SRE"
    bio: ""
-   thumbnailUrl: padrao.jpg
+   thumbnailUrl: pablo.jpg
    rockstar: true
    ribbon:
      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
