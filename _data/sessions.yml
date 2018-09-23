@@ -93,7 +93,7 @@
   title: "Talk"
   description: "Talk"
   subtype: Talk
-  speakers: [11]
+  speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -111,7 +111,7 @@
   title: "Talk"
   description: "Talk"
   subtype: Talk
-  speakers: [8]
+  speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -147,33 +147,33 @@
   title: "Talk"
   description: "Talk"
   subtype: Talk
-  speakers: [14,15]
+  speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 019
-  title: "Talk"
+  title: "Charla Empresa"
   description: "Talk"
   subtype: Talk
-  speakers: [18]
+  speakers: []
   # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 020
-  title: "Talk"
+  title: "Charla Empresa"
   description: "Talk"
   subtype: Talk
-  speakers: [16,17]
+  speakers: []
   # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 021
-  title: "Talk"
+  title: "Lightning Talks "
   description: ""
-  subtype: Talk
+  subtype: Lightning Talks
   speakers: [12,13]
   # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
