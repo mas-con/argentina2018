@@ -45,7 +45,7 @@
 -
   id: 007
   title: "Migrando a React desde paradigmas anteriores"
-  description: "Orientado a ayudar a migrar a tecnologías nuevas de front-end (React) a desarrolladorxs que todavía no dan el salto, o siguen utilizando tecnologías antiguas, comparando la vieja y la nueva forma de hacer las cosas. | Se necesitarían conocimientos básicos de JavaScript, trabajar o estar interesado en trabajar en front-end y potencialmente estar utilizando todavía jQuery o Angular 1."
+  description: "Orientado a ayudar a migrar a tecnologías nuevas de front-end (React) a desarrolladorxs que todavía no dan el salto, o siguen utilizando tecnologías antiguas, comparando la vieja y la nueva forma de hacer las cosas. <br><br> Se necesitarían conocimientos básicos de JavaScript, trabajar o estar interesado en trabajar en front-end y potencialmente estar utilizando todavía jQuery o Angular 1."
   subtype: Talk 
   speakers: [4]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -54,7 +54,7 @@
 -
   id: 008
   title: "Creando tu primer chatbot con Dialoflow "
-  description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación. | Se necesitarían conocimientos básicos manejo de git y python."
+  description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación. <br><br> Se necesitarían conocimientos básicos manejo de git y python."
   subtype:  Talk 
   speakers: [1]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -100,7 +100,7 @@
 -
   id: 013
   title: "Crea tu propio server multimedia en una raspberry pi con Docker"
-  description: "Vamos a aprender como levantar un server multimedia en una raspberry pi. Este server descargará torrents automáticamente y los moverá a la biblioteca multimedia donde un servicio los clasificará y brindará una interfaz para ver el contenido en cualquier dispositivo. Todo esto corriendo con Docker| Se necesitarían conocimientos básicos de informatica y un poquito de Linux, voy a explicar que es Docker, pero se tienen que sentir comodos manejando una terminal"
+  description: "Vamos a aprender como levantar un server multimedia en una raspberry pi. Este server descargará torrents automáticamente y los moverá a la biblioteca multimedia donde un servicio los clasificará y brindará una interfaz para ver el contenido en cualquier dispositivo. Todo esto corriendo con Docker.<br><br> Se necesitarían conocimientos básicos de informatica y un poquito de Linux, voy a explicar que es Docker, pero se tienen que sentir comodos manejando una terminal"
   subtype: Talk
   speakers: [5]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -127,7 +127,7 @@
 -
   id: 016
   title: "JavaScript: The Tricky Parts"
-  description: "Análisis de la lógica y funcionamiento de los conceptos más 'engañosos' o que cuestan asimilar, sobre todo si se viene de otro lenguaje de programación.| <br> Se necesitarían conocimientos basicos como haber programado antes (no mucho, pero si lo básico) en JavaScript para sacarle más provecho a al charla."
+  description: "Análisis de la lógica y funcionamiento de los conceptos más 'engañosos' o que cuestan asimilar, sobre todo si se viene de otro lenguaje de programación. <br><br>  Se necesitarían conocimientos basicos como haber programado antes (no mucho, pero si lo básico) en JavaScript para sacarle más provecho a al charla."
   subtype: Talk
   speakers: [6]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
