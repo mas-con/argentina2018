@@ -102,7 +102,7 @@
   title: "Crea tu propio server multimedia en una raspberry pi con Docker"
   description: "Vamos a aprender como levantar un server multimedia en una raspberry pi. Este server descargará torrents automáticamente y los moverá a la biblioteca multimedia donde un servicio los clasificará y brindará una interfaz para ver el contenido en cualquier dispositivo. Todo esto corriendo con Docker.<br><br> Se necesitarían conocimientos básicos de informatica y un poquito de Linux, voy a explicar que es Docker, pero se tienen que sentir comodos manejando una terminal"
   subtype: Talk
-  speakers: [5]
+  speakers: [6]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -129,7 +129,7 @@
   title: "JavaScript: The Tricky Parts"
   description: "Análisis de la lógica y funcionamiento de los conceptos más 'engañosos' o que cuestan asimilar, sobre todo si se viene de otro lenguaje de programación. <br><br>  Se necesitarían conocimientos basicos como haber programado antes (no mucho, pero si lo básico) en JavaScript para sacarle más provecho a al charla."
   subtype: Talk
-  speakers: [6]
+  speakers: [5]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
