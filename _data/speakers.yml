@@ -90,21 +90,21 @@
      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
      - {name: "twitter", link: "http://twitter.com/pablokbs"}
     #  - {name: "github", link: "http://github.com/santiago-hollmann"}
-#  -
-#    id: 7
-#    name: "Serguei"
-#    surname: "Outenkov"
-#    company: "Eventbrite"
-#    title: ""
-#    bio: ""
-#    thumbnailUrl: serguei.png
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      # - {name: "twitter", link: "https://twitter.com/lfmangia"}
-#      # - {name: "github", link: "https://github.com/luisfernandomangia"}
+ -
+   id: 7
+   name: "Diego"
+   surname: "Caso"
+   company: "CASOTO"
+   title: "Lic. en Administracion/Coach Ontológico Profesional/Docente. "
+   bio: ""
+   thumbnailUrl: diego.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/diego-caso-2638751a/"}
+     # - {name: "twitter", link: "https://twitter.com/lfmangia"}
+     # - {name: "github", link: "https://github.com/luisfernandomangia"}
 
 #  -
 #    id: 8

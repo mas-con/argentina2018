@@ -108,10 +108,10 @@
 
 -
   id: 014
-  title: "Talk"
-  description: "Talk"
+  title: "La persona detrás del código. Desarrollando habilidades blandas."
+  description: "Cualquier plataforma que necesites usar para un desarrollo vas a conseguir dominarla en no más de seis meses. Desarrollar tus habilidades blandas como resilencia, empatía y colaboración puede tomarte años y hay quienes no les alcanza toda la vida. Empecemos!. <br><br> Todos los niveles. Conocimiento previos: fracasos, decepciones, falta de comprensión de causas y consecuencias, crisis laborales y hasta sería bueno algún corazón roto. Todo esto impacta en nuestro perfil  laboral. Fui programador y ahora busco y desarrollo talentos para empresas."
   subtype: Talk
-  speakers: []
+  speakers: [7]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
