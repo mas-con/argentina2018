@@ -6,7 +6,7 @@
 #     - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
 #     - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
     - {name: "Mat|r", description: "", link: "http://matrproject.com/index.php", imageUrl: "matr.png"}
-    - {name: "Olpays", description: "", link: "https://www.olpays.com", imageUrl: "olypays.png"}
+    - {name: "Olpays", description: "", link: "https://www.olpays.com", imageUrl: "olypays.svg"}
 
 -
   group: "Apoyo"
