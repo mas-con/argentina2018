@@ -2,11 +2,11 @@
   group: "Patrocinio"
   elements:
 #     - {name: "Python Software Foundation", description: "", link: "https://www.python.org/psf/", imageUrl: "psf.png"}
+    - {name: "Mat|r", description: "", link: "http://matrproject.com/index.php", imageUrl: "matr.png"}
     - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
+    - {name: "Olpays", description: "", link: "https://www.olpays.com", imageUrl: "olpays.svg"}
 #     - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
 #     - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
-    - {name: "Mat|r", description: "", link: "http://matrproject.com/index.php", imageUrl: "matr.png"}
-    - {name: "Olpays", description: "", link: "https://www.olpays.com", imageUrl: "olypays.svg"}
 
 -
   group: "Apoyo"
