@@ -134,7 +134,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 017
+  id: 018
   title: "Talk"
   description: "Talk"
   subtype: Talk
@@ -143,11 +143,11 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 018
-  title: "Talk"
-  description: "Talk"
+  id: 017
+  title: "Fullstack GraphQL"
+  description: "Aprendé sobre GraphQL, una excelente alternativa a REST. Muy buen tooling, menores payloads, menos pedidos HTTP, documentación sin configuración, auto-completado y mejor comunicación entre frontend devs y backend devs. ¿Suena demasiado bueno para ser verdad? Vos sos el que decide.<br><br>Para entender los conceptos mas generales necesitas conocer sobre arquitecturas cliente servidor, más que nada REST. Si sabes Javascript y React joya, vas a entender mejor los ejemplos, pero sino no te preocupes, van a ser simples."
   subtype: Talk
-  speakers: []
+  speakers: [8]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 

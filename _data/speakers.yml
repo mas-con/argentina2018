@@ -106,22 +106,22 @@
      # - {name: "twitter", link: "https://twitter.com/lfmangia"}
      # - {name: "github", link: "https://github.com/luisfernandomangia"}
 
-#  -
-#    id: 8
-#    name: "Fernando"
-#    surname: "Serrano"
-#    company: "Eventbrite"
-#    title: "Manager de Ingeniería"
-#    bio: ""
-#    thumbnailUrl: fernando.jpg
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#      #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#      # - {name: "twitter", link: "https://twitter.com/douglasdrumond"}
-#      # - {name: "github", link: "https://github.com/douglasdrumond"}
+ -
+   id: 8
+   name: "Julian"
+   surname: "Mayorga"
+   company: "GraphCMS"
+   title: "Software Developer"
+   bio: ""
+   thumbnailUrl: julian.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://github.com/JulianMayorga"}
+     - {name: "github", link: "https://twitter.com/juli_mayorga"}
 
  -
    id: 9
