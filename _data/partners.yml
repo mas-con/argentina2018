@@ -1,18 +1,18 @@
-# -
-#   group: "Patrocinio"
-#   elements:
+-
+  group: "Patrocinio"
+  elements:
 #     - {name: "Python Software Foundation", description: "", link: "https://www.python.org/psf/", imageUrl: "psf.png"}
-#     - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
+    - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
 #     - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
 #     - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
-#     - {name: "AG2", description: "", link: "http://ag2technology.com/", imageUrl: "ag2.png"}
-#     - {name: "Pixel Sapiens", description: "", link: "", imageUrl: "pixelsapiens.png"}
+    - {name: "Mat|r", description: "", link: "http://matrproject.com/index.php", imageUrl: "matr.png"}
+    - {name: "Olpays", description: "", link: "https://www.olpays.com", imageUrl: "olypays.png"}
 
 -
   group: "Apoyo"
   elements:
     - {name: "UTN Mendoza", description: "UTN Mendoza", link: "http://www.frm.utn.edu.ar/", imageUrl: "logo-utn.png"}
-#     - {name: "Banco de Alimentos", description: "Banco de Alimentos", link: "http://bdamendoza.org.ar/", imageUrl: "bda.png"}
+    - {name: "Banco de Alimentos", description: "Banco de Alimentos", link: "http://bdamendoza.org.ar/", imageUrl: "bda.png"}
 #     - {name: "JetBrains", description: "", link: "http://www.jetbrains.com", imageUrl: "jetbrains.png"}
 
 # -
