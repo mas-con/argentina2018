@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Programación"}
  - {permalink: "/speakers/", text: "Oradores"}
+ - {permalink: "/partners/", text: "Patrocinadores"}
  - {permalink: "/team/", text: "Los organizadores"}
 
 # bottomNavigationLinks:
