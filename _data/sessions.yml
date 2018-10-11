@@ -62,8 +62,8 @@
 
 -
   id: 009
-  title: "La tecnología como amenaza a la privacidad"
-  description: "Juan te cuenta sobre el uso del software, y la responsabilidad de los programadores. Vas a aprender algunos casos actuales y te contará algunas pruebas que se hacen en AG2 Technology para evitar riesgos. <br><br>Nivel de conocimiento para entender la charla: sin conocimientos previos."
+  title: "Destripando binarios"
+  description: "Juan nos mostrará técnicas de ingeniería inversa de software y como evadir protecciones. Vamos a examinar algunos casos y nos contará algunas pruebas que se hacen en AG2 Technology para detectar que tan robusto es nuestro código.<br><br>Nivel de conocimiento para entender la charla: Programación intermedio / Testing intermedio"
   subtype: Talk
   speakers: [10]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
