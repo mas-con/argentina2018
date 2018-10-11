@@ -117,9 +117,9 @@
 
 -
   id: 015
-  title: "Talk"
-  description: "Talk"
-  subtype:  Talk
+  title: "-"
+  description: "-"
+  subtype:  -
   speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -135,9 +135,9 @@
 
 -
   id: 018
-  title: "Talk"
-  description: "Talk"
-  subtype: Talk
+  title: "-"
+  description: "-"
+  subtype: -
   speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -162,7 +162,7 @@
 
 -
   id: 020
-  title: "Charla Empresa"
+  title: "Eventbrite"
   description: "Talk"
   subtype: Talk
   speakers: []

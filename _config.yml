@@ -60,7 +60,7 @@ eventDate: "20 Octubre - UTN Mendoza "
 typeoutTextValues: '"", "ferencia", "versación ", "vos ", "Diseno" ,"desarrollo"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/c4p-mascon", text: "Postula tu Charla"}
+#  - {link: "https://bit.ly/c4p-mascon", text: "Postula tu Charla"}
  - {link: "https://masconmdz.eventbrite.com", text: "INSCRIPCIONES"}
 
 # About Block
