@@ -62,8 +62,8 @@
 
 -
   id: 009
-  title: "Talk"
-  description: "Talk"
+  title: "La tecnología como amenaza a la privacidad"
+  description: "Juan te cuenta sobre el uso del software, y la responsabilidad de los programadores. Vas a aprender algunos casos actuales y te contará algunas pruebas que se hacen en AG2 Technology para evitar riesgos. <br><br>Nivel de conocimiento para entender la charla: sin conocimientos previos."
   subtype: Talk
   speakers: [10]
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -153,10 +153,10 @@
 
 -
   id: 019
-  title: "Charla Empresa"
-  description: "Talk"
+  title: "Aprende los Beneficios de desarrollar una app en mat|r"
+  description: "Sergio te enseña todo sobre mat|r, el ecosistema más completo para el desarrollo de aplicaciones agnósticas al dispositivo. No importa si es un Android, IOS, Arduino, Rasperry PI, mat|r se ocupará de transformar lo que escribas en una APP nativa para el dispositivo que elijas. Podrás disminuir el tiempo de desarrollo en más de un 60%, Permite crear tus proyectos con un solo lenguaje de programación y evitar tener especialistas por cada dispositivo. Con un solo lenguaje de programación y con un solo ecosistema de desarrollo,  de forma automática podrás crear las interfaces para cada dispositivo. <br><br> Nivel de conocimiento para entender la charla: sin conocimientos previos."
   subtype: Talk
-  speakers: []
+  speakers: [11]
   # presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 

@@ -140,39 +140,39 @@
      - {name: "twitter", link: "https://twitter.com/@epanellii"}
      # - {name: "github", link: "https://github.com/aoqfonseca"}
 
-#  -
-#    id: 10
-#    name: "Mariano"
-#    surname: "Vallés"
-#    company: "Eventbrite"
-#    title: "Software Engineer"
-#    bio: ""
-#    thumbnailUrl: mariano.jpg
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#      #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      #- {name: "google-plus", link: "https://plus.google.com/+PaulaAldeco/"}
-#      - {name: "twitter", link: "https://twitter.com/zucaritask"}
-#      # - {name: "github", link: "https://github.com/carloshpdoc"}
+ -
+   id: 10
+   name: "Juan"
+   surname: "Cotta"
+   company: "Ag2 Technology"
+   title: ""
+   bio: ""
+   thumbnailUrl: juan_cotta.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+PaulaAldeco/"}
+    #  - {name: "twitter", link: "https://twitter.com/zucaritask"}
+     # - {name: "github", link: "https://github.com/carloshpdoc"}
 
-#  -
-#    id: 11
-#    name: "Fede"
-#    surname: "Hernandez"
-#    company: "Olpays"
-#    title: "Software Engineer"
-#    bio: ""
-#    thumbnailUrl: fede.png
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#      #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      - {name: "twitter", link: "https://twitter.com/jfenderico"}
-#      - {name: "twitter", link: "https://twitter.com/Mendoza_JS"}
-#      - {name: "github", link: "https://github.com/jfenderico"}
+ -
+   id: 11
+   name: "Sergio "
+   surname: "Farias"
+   company: "mat|r project"
+   title: ""
+   bio: ""
+   thumbnailUrl: sergio_farias.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+    #  - {name: "twitter", link: "https://twitter.com/jfenderico"}
+    #  - {name: "twitter", link: "https://twitter.com/Mendoza_JS"}
+    #  - {name: "github", link: "https://github.com/jfenderico"}
 
 
 #  -
