@@ -90,9 +90,9 @@
 
 -
   id: 012
-  title: "Talk"
-  description: "Talk"
-  subtype: Talk
+  title: "-"
+  description: "-"
+  subtype: 
   speakers: []
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
