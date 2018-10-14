@@ -52,7 +52,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 008
+  id: 012
   title: "Creando tu primer chatbot con Dialoflow "
   description: "Aprenderemos a crear desde cero un asistente virtual con ayuda de la plataforma Dialogflow, el cual se comunicará nuestra aplicación desarrollada en python. Utilizaremos Heroku como hosting de la aplicación. <br><br> Se necesitarían conocimientos básicos manejo de git y python."
   subtype:  Talk 
@@ -61,7 +61,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 009
+  id: 018
   title: "Destripando binarios"
   description: "Juan nos mostrará técnicas de ingeniería inversa de software y como evadir protecciones. Vamos a examinar algunos casos y nos contará algunas pruebas que se hacen en AG2 Technology para detectar que tan robusto es nuestro código.<br><br>Nivel de conocimiento para entender la charla: Programación intermedio / Testing intermedio"
   subtype: Talk
@@ -70,7 +70,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 010
+  id: 008
   title: "Postman - Testing de EndPoints - Continuos Integration"
   description: "Postman es masivamente usado como herramienta para recordar llamadas api rest, con ligeros aditivos es posible agregarle valor a esas llamadas utilizando pre y post script, así como también test. El cierre de la charla estará dado con la configuración de un servidor Jenkins junto a NewMan para crear un job de integración continua. "
   subtype: Talk
@@ -79,7 +79,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 011
+  id: 015
   title: " Mostrar cosas interesantes con Bases de Datos"
   description: "Todos tenemos bases de datos, planillas de excel gigantes llenas de filas y columnas, y hay muchas herramientas geniales para crear mapas y mostrar las cosas de mejor manera para que lo entienda todo el mundo. "
   subtype: Talk
@@ -98,7 +98,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 013
+  id: 017
   title: "Crea tu propio server multimedia en una raspberry pi con Docker"
   description: "Vamos a aprender como levantar un server multimedia en una raspberry pi. Este server descargará torrents automáticamente y los moverá a la biblioteca multimedia donde un servicio los clasificará y brindará una interfaz para ver el contenido en cualquier dispositivo. Todo esto corriendo con Docker.<br><br> Se necesitarían conocimientos básicos de informatica y un poquito de Linux, voy a explicar que es Docker, pero se tienen que sentir comodos manejando una terminal"
   subtype: Talk
@@ -107,7 +107,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 014
+  id: 009
   title: "La persona detrás del código. Desarrollando habilidades blandas."
   description: "Cualquier plataforma que necesites usar para un desarrollo vas a conseguir dominarla en no más de seis meses. Desarrollar tus habilidades blandas como resilencia, empatía y colaboración puede tomarte años y hay quienes no les alcanza toda la vida. Empecemos!. <br><br> Todos los niveles. Conocimiento previos: fracasos, decepciones, falta de comprensión de causas y consecuencias, crisis laborales y hasta sería bueno algún corazón roto. Todo esto impacta en nuestro perfil  laboral. Fui programador y ahora busco y desarrollo talentos para empresas."
   subtype: Talk
@@ -125,7 +125,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 016
+  id: 011
   title: "JavaScript: The Tricky Parts"
   description: "Análisis de la lógica y funcionamiento de los conceptos más 'engañosos' o que cuestan asimilar, sobre todo si se viene de otro lenguaje de programación. <br><br>  Se necesitarían conocimientos basicos como haber programado antes (no mucho, pero si lo básico) en JavaScript para sacarle más provecho a al charla."
   subtype: Talk
@@ -143,7 +143,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 017
+  id: 014
   title: "Fullstack GraphQL"
   description: "Aprendé sobre GraphQL, una excelente alternativa a REST. Muy buen tooling, menores payloads, menos pedidos HTTP, documentación sin configuración, auto-completado y mejor comunicación entre frontend devs y backend devs. ¿Suena demasiado bueno para ser verdad? Vos sos el que decide.<br><br>Para entender los conceptos mas generales necesitas conocer sobre arquitecturas cliente servidor, más que nada REST. Si sabes Javascript y React joya, vas a entender mejor los ejemplos, pero sino no te preocupes, van a ser simples."
   subtype: Talk
