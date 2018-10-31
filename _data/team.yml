@@ -40,18 +40,3 @@
 #     # - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
 #     - {name: "site", link: "https://www.pixelsapiens.com"}
 #     - {name: "github", link: "https://github.com/flornrosas"}
-
-# -
-#   id: 2
-#   name: "Jero"
-#   surname: "Pizarro"
-#   title: "Organizer"
-#   thumbnailUrl: jero.jpg
-#   team: true
-#   ribbon:
-#     # - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     # - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
-#     - {name: "twitter", link: "https://twitter.com/jeropizarro21"}
-#     - {name: "github", link: "https://github.com/JeroPizarro'"}
-
