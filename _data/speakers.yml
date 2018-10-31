@@ -261,35 +261,3 @@
 #      # - {name: "twitter", link: "https://twitter.com/Mendoza_JS"}
 #      # - {name: "github", link: "https://github.com/jfenderico"}
 
-#  -
-#    id: 17
-#    name: "Julieta  "
-#    surname: "Mantovan"
-#    company: "GlobalLogic"
-#    title: "Semi Sr Designer "
-#    bio: ""
-#    thumbnailUrl: julieta.png
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#      #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      # - {name: "twitter", link: "https://twitter.com/diormesalve"}
-#      # - {name: "twitter", link: "https://twitter.com/Mendoza_JS"}
-#      # - {name: "github", link: "https://github.com/jfenderico"}
-
-#  -
-#    id: 18
-#    name: "Juanjo"
-#    surname: "Ciarlante"
-#    company: "Bitnami "
-#    title: "SRE, Google SRE Xoogler, Freelance ICT Eng, Free Software Dev, Univ Mendoza Prof. "
-#    bio: ""
-#    thumbnailUrl: juanjo.jpg
-#    rockstar: true
-#    ribbon:
-#      #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#      #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#    social:
-#      - {name: "twitter", link: "https://twitter.com/xjjo"}
-#      - {name: "github", link: "https://github.com/jjo"}
