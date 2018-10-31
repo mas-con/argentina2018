@@ -55,32 +55,3 @@
 #     - {name: "twitter", link: "https://twitter.com/jeropizarro21"}
 #     - {name: "github", link: "https://github.com/JeroPizarro'"}
 
-# -
-#   id: 4
-#   name: "Juan"
-#   surname: "Churin"
-#   title: "Organizer"
-#   thumbnailUrl: juanc.jpg
-#   team: true
-#   ribbon:
-#     # - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "sitio", link: "https://about.me/juanchurin"}
-#     - {name: "twitter", link: "https://twitter.com/JChurin"}
-#     - {name: "github", link: "https://github.com/jchurin'"}
-
-# -
-#   id: 5
-#   name: "Oscar"
-#   surname: "Alcade"
-#   title: "Organizer"
-#   thumbnailUrl: padrao.jpg
-#   team: true
-#   ribbon:
-#     # - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "email", link: "oscaralcalde93@gmail.com"}
-#     # - {name: "twitter", link: "https://twitter.com/JChurin"}
-#     # - {name: "github", link: "https://github.com/jchurin'"}
-
-
