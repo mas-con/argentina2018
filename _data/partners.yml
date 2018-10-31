@@ -5,8 +5,6 @@
 #     - {name: "Eventbrite", description: "", link: "https://www.eventbrite.com.ar/", imageUrl: "event.jpg"}
 #     - {name: "Mercado Libre", description: "", link: "https://mercadolibre.com.ar/", imageUrl: "mercado-libre.png"}
 #     - {name: "Global Logic", description: "", link: "https://www.globallogic.com/latam/", imageUrl: "globallogic.png"}
-#     - {name: "AG2", description: "", link: "http://ag2technology.com/", imageUrl: "ag2.png"}
-#     - {name: "Pixel Sapiens", description: "", link: "", imageUrl: "pixelsapiens.png"}
 
 -
   group: "Apoyo"
@@ -19,6 +17,4 @@
 #   group: "Otros"
 #   elements:
 #     - {name: "PythonMendoza", description: "PythonMendoza ", link: "pythonmendoza", imageUrl: "pythonar.png"}
-#     - {name: "PyladiesMendoza", description: "PyladiesMendoza ", link: "https://www.facebook.com/pyladiesmdz", imageUrl: "pyladies.png"}
-#     - {name: "Mdz[TIC]", description: "Mdz[TIC] ", link: "https://fb.me/mdztic", imageUrl: "mdztic.jpg"}
 
